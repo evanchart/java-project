@@ -1,2 +1,3 @@
 # java-project
-Low-level Java project done for my CL class
+
+Basic class definitions for a library system. Final implementation with C++.
